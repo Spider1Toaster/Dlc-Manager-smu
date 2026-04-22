@@ -3,9 +3,16 @@
     {
       "id": "neversoft",
       "name": "Neversoft DLC",
-      "description": "Spider-Toaster sucks, he needs to kill himself fr",
-      "author": "Web-Hub",
-      "download_url": "PLACEHOLDER"
+      "description": "Characters from Spider-Man 2000 and Enter Electro",
+      "author": "Web Hub, Anganoff",
+      "date": "2024-04-22",
+      "banner_url": "PLACEHOLDER",
+      "files": [
+        {
+          "filename": "file000002.dat",
+          "download_url": "PLACEHOLDER"
+        }
+      ]
     }
   ]
 }
