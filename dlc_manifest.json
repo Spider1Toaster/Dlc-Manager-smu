@@ -3,15 +3,13 @@
     {
       "id": "original",
       "name": "Original Spider-Man Unlimited",
-      "description": "Non-modded characters from Spider-Man Unlimited",
+      "description": "The original unmodified game files.",
       "author": "Web Hub",
       "date": "2026-04-24",
-      "banner_url": "https://raw.githubusercontent.com/Spider1Toaster/Dlc-Manager-smu/refs/heads/main/Banners/sketch-1776926980670.png",
+      "banner_url": "PLACEHOLDER",
+      "download_url": "PLACEHOLDER",
       "files": [
-        {
-          "filename": "file000002.dat",
-          "download_url": "PLACEHOLDER"
-        }
+        "file000002.dat"
       ]
     }
   ]
