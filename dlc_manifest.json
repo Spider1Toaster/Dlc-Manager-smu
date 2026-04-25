@@ -11,6 +11,18 @@
       "files": [
         "file000002.dat"
       ]
+    },
+    {
+      "id": "sbr",
+      "name": "STEEL BALL RUN",
+      "description": "STEEL BALL RUN, STEEL BALL RUN IS REAL!!!!!",
+      "author": "Web Hub, David Production, Hirohiko Araki",
+      "date": "2026-04-25",
+      "banner_url": "",
+      "download_url": "PLACEHOLDER",
+      "files": [
+        "file000002.dat"
+      ]
     }
   ]
 }
